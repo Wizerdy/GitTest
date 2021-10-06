@@ -1,0 +1,12 @@
+[L,l]ibrary
+[T,t]emp
+[B,b]uild
+
+[U,u]serSettings/EditorUserSettings.asset
+[A,a]ssets/TutorialInfo
+[L,l]ogs
+[P,p]ackages/packages-lock.json
+.vsconfig
+
+*.csproj
+*.sln
